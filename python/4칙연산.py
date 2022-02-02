@@ -16,3 +16,8 @@
 # r=7
 # area=r**2*3.14
 # print(area)
+
+n=7
+b=5
+result=n+b
+print(result)
