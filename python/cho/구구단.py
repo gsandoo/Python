@@ -1,0 +1,3 @@
+for i in range(2, 10):  #2단 3단...
+    for j in range(1, 10):  #2x1 ... 뒷자리수
+        print( i*j)
