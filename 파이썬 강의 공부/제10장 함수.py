@@ -67,7 +67,6 @@ print (a)
 
 # 숫자들을 입력받아 평균값을 구하는 식 만들기
 
-
 def number(numbers):
     result=0
     for i in numbers:
@@ -88,6 +87,8 @@ def num(num1,num2):
 
 answer=num(33,2)
 print(answer)
+
+
 # ---------------------------------------------------------------------
 
 # 양의 정수 n을 입력하면 1부터 n까지 곱해주는 fact함수를 작성하시오
@@ -116,6 +117,7 @@ oddoreven(3)
 # -----------------------------------------
 
 # 인자가 존재하지 않는 함수
+
 def hello():
     return "hello , how are you?"
 
