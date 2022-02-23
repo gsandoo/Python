@@ -20,11 +20,10 @@
 #         self.first=first
 #         self.second=second
 #     def add(self):
-#         result=self.first+self.second
+#         result=self.first+self.second+self.first
 #         return(result)
 # a=FourCal()
 # a.setdata(1,2)
-
 # print(a.add())
     
 # class  FourCal:
